@@ -1,0 +1,16 @@
+{
+  "name": "simple-npm-express-webhook-listener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postshrinkwrap": "bash app_id.sh",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "APP_ID": "simple-npm-express-webhook-listener"
+}
